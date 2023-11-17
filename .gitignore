@@ -1,0 +1,6 @@
+compile_flags.txt
+.DS_Store
+*.o
+*.a
+*.dSYM
+fdf
